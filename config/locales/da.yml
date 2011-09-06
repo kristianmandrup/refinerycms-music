@@ -1,0 +1,25 @@
+da:
+  plugins:
+    music:
+      title: Audio
+  admin:
+    songs:
+      index:
+        title: Audio filer
+        create_new: Tilføj Ny Audio
+        reorder: Omroker Audios
+        reorder_done: Omrokering af Audios afsluttet
+        settings: Rediger audio settings
+        sorry_no_results: Ingen søgeresultater.
+        no_items_yet: Der er ingen audios endnu. Klik "Tilføj Ny Audio" for at tilføje din første audio.
+      song:
+        view_live_html: Vis denne audio live <br/><em>(åbner i et nyt vindue)</em>
+        edit: Rediger denne audio
+        delete: Slet denne audio
+  songs:
+    show:
+      other: Andre Audios
+      download-advice: (du vil måske skulle højre-klikke og "gem som...")
+      download: Download denne audio!
+      nofile: Oops! audioen eksisterer, men vi har ikke filen endnu!
+
